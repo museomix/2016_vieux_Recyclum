@@ -10,6 +10,7 @@ Recyclum propose un jeu de piste dans l'une des pièces du musée de Vieux-la-Ro
 
 Le matériel utlisé :
  - Un Arduino sur lequel tourne le code dans ce repository
+ - Un capteur de lumière
  - Un bouton poussoir
  - Un bandeau de LED néopixel
  - Une LED classique
